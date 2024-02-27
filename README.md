@@ -1,3 +1,5 @@
+![logo](https://github.com/ChaitanyaAndhale/ChaitanyaAndhale/blob/main/Futuristic%20Neon%20Spacy%20Twitch%20Banner%20-%20Made%20with%20PosterMyWall.jpg)
+
 <h1 align="center">Hi 👋, I'm Chaitanya Andhale</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
