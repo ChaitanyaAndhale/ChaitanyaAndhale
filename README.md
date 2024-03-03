@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Andhale</h1>
-<h3 align="center">A passionate Computer Engineer from India</h3>
+![logo](https://github.com/ChaitanyaAndhale/ChaitanyaAndhale/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
+<h3 align="center">A̾ ̾p̾a̾̾s̾̾s̾̾i̾̾o̾̾n̾a̾̾t̾̾e̾ ̾C̾̾o̾̾m̾̾p̾̾u̾̾t̾̾e̾̾r̾ ̾E̾̾n̾̾g̾̾i̾̾n̾̾e̾̾e̾̾r̾ ̾f̾̾r̾̾o̾̾m̾ ̾I̾̾n̾̾d̾̾i̾a̾</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
